@@ -1,0 +1,10 @@
+Read carefully
+
+Warning: Modification and inspection is not allowed and may be reported to the proctor.(The Proctor may get to know that your answer was coppied through a website if ur using this command)
+- I am trying my best to solve this issue.
+- extension is there just for coming out of "Full screen" and "Inspect"
+- If your ready to take risk. You can use this command.
+- If not just enable extention and start your exam.
+
+command:
+/html/body/div[1]/div/div/div/div[6]/div[2]/div[2]/div/div/div/div[2]/div
